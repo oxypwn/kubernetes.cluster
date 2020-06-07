@@ -1,1 +1,1 @@
-# k8s.cluster
+# kubernetes.cluster
